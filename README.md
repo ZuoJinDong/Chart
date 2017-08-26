@@ -4,6 +4,6 @@
   
   [我的简书](http://www.jianshu.com/p/241d19282aa5)  
   
-  ![微信](https://github.com/zjd77065163/GIF/blob/master/WeChat.jpg)  
+  ![微信](https://github.com/ZuoJinDong/GIF/blob/master/WeChat.jpg)  
   
-  ![](https://github.com/zjd77065163/GIF/blob/master/chart.gif)  
+  ![](https://github.com/ZuoJinDong/GIF/blob/master/chart.gif)  
